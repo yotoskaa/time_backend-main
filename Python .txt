@@ -1,0 +1,6 @@
+python library:
+- django
+- djangorestframework
+- psycopg2
+python interpreter:
+- Python 3.9
